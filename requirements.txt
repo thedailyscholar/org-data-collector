@@ -1,0 +1,6 @@
+requests==2.31.0
+httpx==0.25.0
+python-dotenv==1.0.0
+facebook-business==16.0.0
+google-api-python-client==2.104.0
+aiohttp==3.9.0

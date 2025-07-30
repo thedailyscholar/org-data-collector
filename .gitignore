@@ -1,0 +1,81 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.env/
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variable files
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter and Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Coverage and testing
+htmlcov/
+.tox/
+.coverage
+.cache
+.pytest_cache/
+
+# Byte-compiled / packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+sdist/
+develop-eggs/
+
+# Pip files
+pip-log.txt
+pip-delete-this-directory.txt
+requirements.txt~
+
+# Excel or temporary data files
+*.xls
+*.xlsx
+*.csv
+*.tsv
+*.tmp
+*.bak
+*.swp
+
+# Python dotenv (environment secrets)
+.env
+.env.*
+
+# Node (if mixed with JS frontend)
+node_modules/
+
+# MyPy type checker
+.mypy_cache/
+
+# VS Code
+.vscode/
+
+# PyCharm
+*.iml
+.idea/
+
+# Local Jupyter runtime
+~$*.xlsx
